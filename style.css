@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,700&family=Fredoka+One&family=Murecho:wght@200;400&family=Open+Sans:wght@500&family=Poppins:ital,wght@0,300;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(30,23,47);
+    color:white;
+    align-items: center;
+}
+.headeruno ul{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+li{
+    list-style: none;
+}
+.auno{
+   text-decoration: none;
+   color: rgb(124,119,133);
+}
+li a{
+    text-decoration: none;
+    color: white;
+
+}
+.ados{
+  
+    padding: 10px 16px;
+    border-radius: 4px;
+    background:linear-gradient(to right,#834bd5,#4460d5);
+   
+}
+.contenedoruno{
+    display: flex;
+    
+}
+.subcontenedordos{
+    background-image:url('./image/WhatsApp\ Image\ 2022-02-02\ at\ 3.00.28\ PM.jpeg');
+    background-size: cover;
+}
+.subcontenedor{
+    display: flex;
+    flex-direction:column;
+    width: 50%;
+    background-color: #2e2550;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+   
+}
+.subcontenedor p{
+    margin-left: 312px;
+}
+
+.boton{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #585173;
+    margin-left:130px ;
+   width: 300px;
+   height: 56px;
+   padding: 3px;
+   border-radius: 3px;
+}
+.down{
+    
+    color: #ec006e;
+    font-size: 19px;
+    text-decoration: none;
+    background-color: white;
+    padding: 12px;
+    border-radius: 3px;
+    
+}
+.downdos{
+    color:white;
+    font-size: 19px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 12px 30px;
+    border-radius: 3px;
+}
+
+.subcontenedordos{
+    width: 50%;
+}
+.celu{
+    width: 155px;
+    margin:100px 0 0 200px;
+
+}
+.imagdos{
+    width: 480px;
+}
+.secion{
+    margin: 80px;
+    display: flex;
+    justify-content:space-evenly;
+   
+}
+
+.titulo{
+    text-align: center;
+    font-size: 60px;
+    color:rgb(236, 0, 110);
+}
+.seciondos p{
+    font-size:20px ;
+    margin-bottom: 4px;
+}
+small{
+    border: 1px solid rgb(236, 0, 110);
+    border-radius: 10px;
+    padding: 1px 4px;
+    color:rgb(182, 0, 85);
+    width: 1px;
+    height: 1px;
+    font-size: 12px;
+}
+
+pre{
+    font-size: 20px;
+    font-family: 'Murecho', sans-serif;
+  
+}
+
+.contenedordos{
+    background-color:rgb(241,242,247) ;
+}
+
+.titutres{
+    color:rgb(236, 0, 110);
+}
+.titudos{
+ 
+    color:#c82263;
+}
+.contenetres{
+    text-align: center;
+}
+.cuadros{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.subtre{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(241,242,247) ;
+    height: 50px;
+    padding: 2px;
+   
+}
+
+.p{
+    font-size: 35px;
+    margin: 7px 0 0 0;
+    
+}
+
+.pd{
+    margin: 10px 0 0 0;
+}
+.subtredos{
+    
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.estrella{
+    color:#ec006e;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+.bot{
+    display: flex;
+    background-color:#f1f2f7 ;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tresuno{
+    width: 300px;
+    background-color: white;
+}
+
+
+.contenetres{
+    background-color: #2e2550;
+}
+.h1{
+    color: white;
+    font-size: 60px;
+}
+.pdos{
+    color: white;
+}
+
+
+.dossub{
+    display: flex;
+    gap: 35px;
+    margin: 0 0 0 60px;
+    
+}
+.aboton{
+   
+    background-color: #2e2550;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.abotonuno{
+   
+   background: linear-gradient(to right,#ec60a8,#f31d8a);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+.footuno{
+    font-size: 20px;
+}
+
+span{
+  border-bottom: 3px solid #ec006e;
+  width: 20px;
+  float: left;
+  margin: 10px 12px 0 0 ;
+  
+}
+
+.gg{
+   
+    border: none;
+    color: #e80a7c;
+    font-size: 20px;
+}
+
